@@ -10,5 +10,4 @@ Being originally cultivated as a simple staple crop, meant for feeding mass popu
 
 Visit one of the following links to learn more about a small selection of rices, from hispanic, asian, and italian culture. :]
 
-[Go to "Culture Selection"](bowl/Cultures/Culture_Selection.md) 
-[Go to "Recipe Selection"](Recipes/Recipe_Selection.md)
+[Go to "Culture Selection"](bowl/Cultures/Culture_Selection.md) | [Go to "Recipe Selection"](Recipes/Recipe_Selection.md)
