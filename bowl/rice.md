@@ -8,7 +8,7 @@ Being originally cultivated as a simple staple crop, meant for feeding mass popu
 [Image provided by FooDB](https://foodb.ca/foods/FOOD00235)</sub>  
 <img src="https://foodb.ca/system/foods/pictures/235/full/235.png?1334914336" alt="alternatetext" width="200" height="200">
 
-Come along 
+Visit one of the following links to learn more about a small selection of rices, from hispanic, asian, and italian culture. :]
 
 [Go to "Culture Selection"](bowl/Cultures/Culture_Selection.md)  
 [Go to "Recipe Selection"](bowl/Recipes/Recipe_Selection.md)
