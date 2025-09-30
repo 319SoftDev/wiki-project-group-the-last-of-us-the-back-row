@@ -10,5 +10,5 @@ Being originally cultivated as a simple staple crop, meant for feeding mass popu
 
 Come along 
 
-[Go to "Culture Selection"](myLib/Culture Selection)  
-[Go to "Recipe Selection"](myLib/Recipe Selection)
+[Go to "Culture Selection"]()  
+[Go to "Recipe Selection"]()
