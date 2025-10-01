@@ -2,6 +2,7 @@
 Rice has a long culturally significant history, and this is demonstrated through cultural recipies around the world. 
 
 Starting from its domestication in Asia as a grain
+
 # 
 If you would like to go to a different page however, you may.
 > [Go back to Main Page](../rice.md)  
