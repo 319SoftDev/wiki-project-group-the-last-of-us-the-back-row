@@ -7,7 +7,7 @@ Being originally cultivated as a simple staple crop, meant for feeding mass popu
 <sub>Image provided by: [Modern Meal Makeover](https://modernmealmakeover.com/teriyaki-chicken/)</sub>  
 <img src="https://modernmealmakeover.com/wp-content/uploads/2020/10/IMG_6548-4.jpg" alt="Photo of a bowl of Teriyaki Chicken Rice" width="230" height="200">
 
-Visit one of the following links to learn more about a small selection of rices, from hispanic, asian, and italian culture. <img src="https://cdn.creazilla.com/icons/3196742/emoji-smile-icon-lg.png" alt="Smiley Face Emoji" width="15" height="15">
+Visit one of the following links to learn more about a small selection of rices, from hispanic, asian, and italian culture, as well as their respective recipes. Yum! <img src="https://cdn.creazilla.com/icons/3196742/emoji-smile-icon-lg.png" alt="Smiley Face Emoji" width="15" height="15">
 
 > [Go to "Cultures"](Cultures/Culture_Selection.md)  
 > [Go to "Recipes"](Recipes/Recipe_Selection.md)
