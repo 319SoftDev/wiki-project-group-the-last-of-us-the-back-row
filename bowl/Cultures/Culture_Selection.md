@@ -1,1 +1,1 @@
-
+[link](../rice.md)
