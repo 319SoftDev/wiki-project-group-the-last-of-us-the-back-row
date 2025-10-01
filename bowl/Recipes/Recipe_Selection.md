@@ -1,7 +1,10 @@
 # Recipes <img src="https://cdn-icons-png.flaticon.com/512/98/98022.png" alt="rice bowl logo" width="30" height="30">
 Rice has a long culturally significant history, and this is demonstrated through cultural recipies around the world. 
 
-Starting from its domestication in Asia as a grain
+In its early days, it would 
+
+#
+Visit the 
 
 # 
 If you would like to go to a different page however, you may.
