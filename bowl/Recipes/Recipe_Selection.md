@@ -7,7 +7,7 @@ But then, polishing came around, turning the brown rice into longer lasting whit
 
 And then cultures from all over the word started to recieve, and make their own rice, eventually adding their own tastes to the seemingly simple dish, creating a wild variety of flavors.  
 <sub>Image provided by: [To Good To Go](https://www.toogoodtogo.com/en-us/blog/rice-past-best-if-used-by-date)</sub>  
-<img src="https://cdn.sanity.io/images/nqimd3nr/production/51329e31364893c260815aaa18a1b4e15bc2d664-4368x2448.jpg?w=792&fit=max&auto=format" alt="Comparison between brown and white rice" width="800" height="500">
+<img src="https://cdn.sanity.io/images/nqimd3nr/production/51329e31364893c260815aaa18a1b4e15bc2d664-4368x2448.jpg?w=792&fit=max&auto=format" alt="Comparison between brown and white rice" width="800" height="435">
 
 #
 Visit one of the following links to learn their respective recipes:  
