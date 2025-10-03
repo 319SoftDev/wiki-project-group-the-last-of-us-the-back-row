@@ -16,6 +16,9 @@
 - 1 bay leaf
 - Salt + pepper to taste
 
+#
+Full tutorial can be found on this highlighted [website link.](https://asassyspoon.com/arroz-amarillo/to)
+
 <sub>Recipe provided by: [Jamie Silver](https://asassyspoon.com/arroz-amarillo/)</sub>  
 
 # 
