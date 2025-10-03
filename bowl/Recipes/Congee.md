@@ -1,7 +1,7 @@
 # Recipe for Chicken Congee <img src="https://cdn-icons-png.flaticon.com/512/98/98022.png" alt="rice bowl logo" width="30" height="30">
 
 <sub>Image provided by: [Made With Lau](https://www.madewithlau.com/recipes/chicken-congee)</sub>  
-<img src="https://www.madewithlau.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2r0kdewr%2Fproduction%2F2dc817d65a2cb6d512081097046fd66606ec9fb2-1000x563.jpg&w=640&q=75" width="500" height="350">
+<img src="https://www.madewithlau.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2r0kdewr%2Fproduction%2F2dc817d65a2cb6d512081097046fd66606ec9fb2-1000x563.jpg&w=640&q=75" width="600" height="400">
 
 - 1 rice cup white rice (a "rice cup" is about 3/4 of a standard US cup. Jasmine rice is preferred but any white rice will work!)
 - 8 cup water
