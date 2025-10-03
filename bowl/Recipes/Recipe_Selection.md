@@ -12,7 +12,7 @@ And then cultures from all over the word started to recieve, and make their own 
 #
 Visit one of the following links:  
 > [Yellow Rice](../Recipes/YellowRice.md)  
-> [Risotto](../Cultures/Risotto.md)
+> [Risotto](../Cultures/Risotto.md)  
 > [Congee](../Recipes/Congee.md)  
 
 # 
