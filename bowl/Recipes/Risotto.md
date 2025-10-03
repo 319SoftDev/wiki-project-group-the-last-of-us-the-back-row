@@ -1,4 +1,4 @@
-# Recipe for Italian Wedding Risotto
+# Recipe for Italian Wedding Risotto <img src="https://cdn-icons-png.flaticon.com/512/98/98022.png" alt="rice bowl logo" width="30" height="30">
 
 <sub>Image provided by: [Food & Wine](https://www.foodandwine.com/recipes/italian-wedding-risotto)</sub>  
 <img src="https://www.foodandwine.com/thmb/VySKZRCx3r2mU4-kKipOimETTT8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FAW-recipes-italian-wedding-risotto-hero-01-f9c6681cf49f4b958882d2fb84acc61d.jpg" width="500" height="350">
