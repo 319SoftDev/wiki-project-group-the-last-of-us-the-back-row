@@ -23,3 +23,10 @@
 
 
 <sub>Recipe provided by: [Diana Chistruga](https://www.foodandwine.com/recipes/italian-wedding-risotto)</sub>  
+
+# 
+If you would like to go to a different page however, you may.
+> [Go back to Main Page](../rice.md)  
+> [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
+> [Go to "Cultures"](../Cultures/Culture_Selection.md)
+
