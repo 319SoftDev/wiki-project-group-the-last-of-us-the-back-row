@@ -1,7 +1,7 @@
 # Recipe for Italian Wedding Risotto
 
-<sub>Image provided by: [All Recipes](https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/)</sub>  
-<img src="https://www.allrecipes.com/thmb/5vQSEyiifeToohETCYys_q19M-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237593-cindys-yellow-rice-ddmfs-3X4-0529-9e808a720c52413580b0ecb129cd0b1d.jpg" width="700" height="470">
+<sub>Image provided by: [Food & Wine](https://www.foodandwine.com/recipes/italian-wedding-risotto)</sub>  
+<img src="https://www.foodandwine.com/thmb/VySKZRCx3r2mU4-kKipOimETTT8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FAW-recipes-italian-wedding-risotto-hero-01-f9c6681cf49f4b958882d2fb84acc61d.jpg" width="500" height="350">
 
 - 1 pound ground pork
 - 1/2 cup panko
@@ -22,4 +22,4 @@
 - 3 cups packed fresh baby spinach (about 3 ounces), torn
 
 
-<sub>Recipe provided by: [Jamie Silver](https://asassyspoon.com/arroz-amarillo/)</sub>  
+<sub>Recipe provided by: [Diana Chistruga](https://www.foodandwine.com/recipes/italian-wedding-risotto)</sub>  
