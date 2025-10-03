@@ -17,3 +17,8 @@ the Risotto al nero di seppia
 
 The history behind Risotto it was originated in northern italy,evoling from the middle eastern rice cultivation introduced by arb trader and becoming a distinct northern italian dish by the renaissance 
 the classic Risotto developing in the 16th to 19th centuries. The dish's signature creamy texture comes from the slow cooking of specific rice varieties, which release their starches into the broth, while the word "risotto" itself comes from the Italian word for rice.  
+
+#
+> [Go back to Main Page](../rice.md)  
+> [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
+> [Go to "Cultures"](../Cultures/Culture_Selection.md)
