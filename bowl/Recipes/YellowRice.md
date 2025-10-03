@@ -19,7 +19,7 @@
 #
 Full tutorial can be found on this highlighted [website link.](https://asassyspoon.com/arroz-amarillo/to)
 
-<sub>Recipe provided by: [Jamie Silver](https://asassyspoon.com/arroz-amarillo/)</sub>  
+<sub>Recipe provided by: [Jamie Silver](https://asassyspoon.com/jamie-silva/)</sub>  
 
 # 
 If you would like to go to a different page however, you may.
