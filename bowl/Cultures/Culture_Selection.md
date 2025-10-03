@@ -6,12 +6,15 @@ Since there are an endless amount of dishes, we haven chosen 3 important rice di
 To learn more about the cultures surrounding these dishes, please click on one of the links below. :)
 > ## [Learn Italian Culture](Italian.md)
 <img src="https://shorturl.at/Iowb1" alt="plate of Risotto" width=250px>  
+Credit: Diana Chistruga
 
 > ## [Learn Hispanic Culture](Hispanic.md)
 <img src="https://asassyspoon.com/wp-content/uploads/arroz-amarillo-asassyspoon-cuban-yellow-rice-recipe-2.jpg" alt="Yellow Rice in a pot" width=250px>
+Credit: Jamie Silva
 
 > ## [Learn about Chinese Culture](Chinese.md)
 <img src="https://shorturl.at/vJZOv" alt="bowl of congee" width=250px>
+Credit: Lisa Nicklin 
 
 #
 > [Go back to Main Page](../rice.md)  
