@@ -21,6 +21,8 @@
 - 3/4 cup dry white wine
 - 3 cups packed fresh baby spinach (about 3 ounces), torn
 
+#
+Video tutorial can be found on this highlighted [website link.](https://www.foodandwine.com/recipes/italian-wedding-risotto)
 
 <sub>Recipe provided by: [Diana Chistruga](https://www.foodandwine.com/recipes/italian-wedding-risotto)</sub>  
 
