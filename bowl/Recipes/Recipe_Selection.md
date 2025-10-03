@@ -10,7 +10,7 @@ And then cultures from all over the word started to recieve, and make their own 
 <img src="https://cdn.sanity.io/images/nqimd3nr/production/51329e31364893c260815aaa18a1b4e15bc2d664-4368x2448.jpg?w=792&fit=max&auto=format" alt="Comparison between brown and white rice" width="800" height="500">
 
 #
-Visit one of the following links:  
+Visit one of the following links to learn their respective recipes:  
 > [Yellow Rice](../Recipes/YellowRice.md)  
 > [Risotto](../Cultures/Risotto.md)  
 > [Congee](../Recipes/Congee.md)  
