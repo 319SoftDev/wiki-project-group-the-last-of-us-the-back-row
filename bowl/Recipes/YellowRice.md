@@ -1,6 +1,7 @@
 # Recipe for Arroz Amarillo (Yellow Rice)
 
-<sub>Image provided by: [Modern Meal Makeover](https://modernmealmakeover.com/teriyaki-chicken/)</sub>  
+<sub>Image provided by: [All Recipes](https://www.allrecipes.com/recipe/237593/cindys-yellow-rice/)</sub>  
+<img src="https://www.allrecipes.com/thmb/5vQSEyiifeToohETCYys_q19M-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237593-cindys-yellow-rice-ddmfs-3X4-0529-9e808a720c52413580b0ecb129cd0b1d.jpg" width="700" height="470">
 
 - 2 tablespoons olive oil
 - 1/3 cup onion, diced
