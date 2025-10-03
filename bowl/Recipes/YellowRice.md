@@ -1,4 +1,4 @@
-# Recipe for Yellow Rice
+# Recipe for Arroz Amarillo (Yellow Rice)
 
 - 2 tablespoons olive oil
 - 1/3 cup onion, diced
@@ -12,3 +12,5 @@
 - 1/8 teaspoon Bijol, (you can also use annatto or turmeric powder to color the rice)
 - 1 bay leaf
 - Salt + pepper to taste
+
+<sub>Recipe provided by: [Jamie Silver](https://asassyspoon.com/arroz-amarillo/)</sub>  
