@@ -7,4 +7,5 @@ Credit: The Spruce / Danielle Moore
 Originally, it was made in Spain, seasoned and colored with Saffron. However, due to colonization and immigration, it would later on be brought to what is now Latin America and seasoned with spices like Tumeric or Goya Sazon.
 
 > [Go back to Main Page](../rice.md)  
-> [Go to "Recipes"](../Recipes/Recipe_Selection.md)
+> [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
+> [Go to "Cultures"](../Cultures/Culture_Selection.md)
