@@ -6,6 +6,8 @@ Rice is extremely important in East Asian culture, especially Chinese culture. F
 > Credit: A Dash of Soy on Youtube
 
 Its simple flavor and soft silky texture allows it to be easily consumed by people of all ages, also making it a staple in Chinese medicine as everyone can easily eat it. 
+
+#
 > [Go back to Main Page](../rice.md)  
 > [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
 > [Go to "Cultures"](../Cultures/Culture_Selection.md)
