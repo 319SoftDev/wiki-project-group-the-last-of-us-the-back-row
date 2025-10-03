@@ -17,6 +17,8 @@
 - 2 pieces green onion
 - 1 piece cilantro (to taste)
 
+#
+Video tutorial can be found on this highlighted [website link.](https://www.madewithlau.com/recipes/chicken-congee)
 
 <sub>Recipe provided by: [The Lau Family](https://www.madewithlau.com/recipes/chicken-congee)</sub>  
 
