@@ -19,3 +19,9 @@
 
 
 <sub>Recipe provided by: [The Lau Family](https://www.madewithlau.com/recipes/chicken-congee)</sub>  
+
+# 
+If you would like to go to a different page however, you may.
+> [Go back to Main Page](../rice.md)
+> [Go to "Recipes"](../Recipes/Recipe_Selection.md)
+> [Go to "Cultures"](../Cultures/Culture_Selection.md)
