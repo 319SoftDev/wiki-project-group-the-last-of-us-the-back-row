@@ -22,6 +22,6 @@
 
 # 
 If you would like to go to a different page however, you may.
-> [Go back to Main Page](../rice.md)
-> [Go to "Recipes"](../Recipes/Recipe_Selection.md)
+> [Go back to Main Page](../rice.md)  
+> [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
 > [Go to "Cultures"](../Cultures/Culture_Selection.md)
