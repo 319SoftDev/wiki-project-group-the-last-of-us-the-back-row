@@ -1,5 +1,7 @@
 # Recipe for Arroz Amarillo (Yellow Rice)
 
+<sub>Image provided by: [Modern Meal Makeover](https://modernmealmakeover.com/teriyaki-chicken/)</sub>  
+
 - 2 tablespoons olive oil
 - 1/3 cup onion, diced
 - 1/3 cup green bell pepper, diced
