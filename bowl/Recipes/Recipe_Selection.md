@@ -3,7 +3,9 @@
 Rice has a long culturally significant history, and this is demonstrated through cultural recipies around the world. 
 
 In its early days, it would be eaten as brown rice, usually as a side to meats, vegetables, mushrooms, or used in soup dishes.   
-But then, polishing came around, turning the brown rice into longer lasting white rice.
+But then, polishing came around, turning the brown rice into longer lasting white rice.  
+<sub>Image provided by: [To Good To Go](https://www.toogoodtogo.com/en-us/blog/rice-past-best-if-used-by-date)</sub>  
+<img src="https://cdn.sanity.io/images/nqimd3nr/production/51329e31364893c260815aaa18a1b4e15bc2d664-4368x2448.jpg?w=792&fit=max&auto=format" alt="Comparison between brown and white rice" width="800" height="500">
 
 #
 Visit one of the following links
