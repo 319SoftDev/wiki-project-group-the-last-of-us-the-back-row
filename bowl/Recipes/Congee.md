@@ -20,7 +20,7 @@
 #
 Video tutorial can be found on this highlighted [website link.](https://www.madewithlau.com/recipes/chicken-congee)
 
-<sub>Recipe provided by: [The Lau Family](https://www.madewithlau.com/recipes/chicken-congee)</sub>  
+<sub>Recipe provided by: [The Lau Family](https://www.madewithlau.com/)</sub>  
 
 # 
 If you would like to go to a different page however, you may.
