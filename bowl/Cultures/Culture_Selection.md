@@ -4,12 +4,12 @@ It is relatively cheap, filling, and can be paired with anything to create unfor
 
 Since there are an endless amount of dishes, we haven chosen 3 important rice dishes to highlight that are important to us. You can find these dishes on the Recipe Selection page. 
 To learn more about the cultures surrounding these dishes, please click on one of the links below. :)
-
-
-
-* [Learn about Italian Risotto](Italian.md)
-* [Learn about Hispanic Yellow Rice](Hispanic.md)
-* [Learn about Chinese Congee](Chinese.md)
+> ## [Learn Italian Culture](Italian.md)
+![](https://shorturl.at/Iowb1)
+> ## [Learn about Hispanic Culture](Hispanic.md)
+![]([blob:https://imageresizer.com/c5b57640-675f-4263-ab61-c71f5eb0529c](https://www.simpleimageresizer.com/_uploads/photos/74dc4f0e/arroz-amarillo-asassyspoon-cuban-yellow-rice-recipe-2_49.jpg))
+> ## [Learn about Chinese Culture](Chinese.md)
+![](https://shorturl.at/vJZOv)
 
 #
 > [Go back to Main Page](../rice.md)  
