@@ -24,7 +24,7 @@
 #
 Video tutorial can be found on this highlighted [website link.](https://www.foodandwine.com/recipes/italian-wedding-risotto)
 
-<sub>Recipe provided by: [Diana Chistruga](https://www.foodandwine.com/recipes/italian-wedding-risotto)</sub>  
+<sub>Recipe provided by: [Justin Chapple](https://www.foodandwine.com/author/justin-chapple)</sub>  
 
 # 
 If you would like to go to a different page however, you may.
