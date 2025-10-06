@@ -22,3 +22,5 @@ the classic Risotto developing in the 16th to 19th centuries. The dish's signatu
 > [Go back to Main Page](../rice.md)  
 > [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
 > [Go to "Cultures"](../Cultures/Culture_Selection.md)
+
+> [Go to "General History"](../General/Used.md)
