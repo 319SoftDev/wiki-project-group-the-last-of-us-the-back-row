@@ -13,7 +13,8 @@ And then cultures from all over the word started to recieve, and make their own 
 Visit one of the following links to learn their respective recipes:  
 > [Yellow Rice](../Recipes/YellowRice.md)  
 > [Risotto](../Cultures/Risotto.md)  
-> [Congee](../Recipes/Congee.md)  
+> [Congee](../Recipes/Congee.md)
+> [(or plain rice... just in case)](../Recipes/Starter/Plain.md)  
 
 # 
 If you would like to go to a different page however, you may.
