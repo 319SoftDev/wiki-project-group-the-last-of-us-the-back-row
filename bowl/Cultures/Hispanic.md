@@ -11,3 +11,5 @@ Originally, it was made in Spain, seasoned and colored with Saffron. However, du
 > [Go back to Main Page](../rice.md)  
 > [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
 > [Go to "Cultures"](../Cultures/Culture_Selection.md)
+
+> [Go to "General History"](../General/Used.md)
