@@ -14,5 +14,5 @@ Visit one of the following links to learn more about a small selection of rices,
 
 > [Go back to Main Page](../rice.md)  
 > [Go to "Recipes"](../Recipes/Recipe_Selection.md)  
-> [Go to "Cultures"](../Cultures/Culture_Selection.md)
+> [Go to "Cultures"](../Cultures/Culture_Selection.md)  
 > [Go to "General History"](../General/Used.md)
