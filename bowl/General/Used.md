@@ -7,10 +7,8 @@ To quote a very important person in my (Kade's) life:
 
 
 ## Explore Different Current Uses
-> [Go to "Use 1"](Current/Use1.md)
-
-> [Go to "Use 2"](Current/Use2.md)
-
+> [Go to "Use 1"](Current/Use1.md)  
+> [Go to "Use 2"](Current/Use2.md)  
 > [Go to "Use 3"](Current/Use3.md)
 
 #
